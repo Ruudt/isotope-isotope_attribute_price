@@ -7,7 +7,7 @@ This extension allows to add a price to Isotope attribute options. So if you add
 
 To use add an attribute of the select type. The options field will have an extra field called price. You can use price as follows:
 
-+10 => add 10 (euro, dollar, whatever your currency is)
--10 => substract 10
-+10% => add 10 percent
-10 => add 10 (no operator will default to +)
+ * +10 => add 10 (euro, dollar, whatever your currency is)
+ * -10 => substract 10
+ * +10% => add 10 percent
+ * 10 => add 10 (no operator will default to +)
